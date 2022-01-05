@@ -20,11 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcement - Comments Now Avilable!](https://daniel.scheufler.io/2022/01/03/comments-now-online/)
 - [Behaviors Build Culture](https://daniel.scheufler.io/2021/12/08/behaviors-build-culture/)
 - [Speaking at THAT Conference in January 2022](https://daniel.scheufler.io/2021/11/22/that-conf-jan-2022/)
 - [Demystifying Types - Discriminant Unions](https://daniel.scheufler.io/2021/11/17/demystifying-types-du/)
 - [To Automate, or not To Automate - Repairing your care-taker bot](https://daniel.scheufler.io/2021/09/28/auto-not-auto-repair-your-bot/)
-- [To Automate, or not To Automate - Becoming a Trusted Team Member](https://daniel.scheufler.io/2021/07/19/auto-not-auto-trusted-team-member/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
