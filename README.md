@@ -20,11 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Identity Proceeds Behavior](https://daniel.scheufler.io/2022/02/23/identity-proceeds-behavior/)
+- [Am I bothering you? Effectively onboarding as a Junior Developer](https://daniel.scheufler.io/2022/02/16/onboarding-junior-engineer/)
 - [The roots of agility](https://daniel.scheufler.io/2022/02/02/roots-of-agility/)
 - [How to start building your &#39;second brain&#39;](https://daniel.scheufler.io/2022/01/19/pkm-second-brain/)
 - [Conversational Bids for High Performing Teams](https://daniel.scheufler.io/2022/01/12/conversational-bids/)
-- [Software Engineer - You need a personal knowledge management system](https://daniel.scheufler.io/2022/01/05/personal-knowledge-mgmt/)
-- [Announcement - Comments Now Avilable!](https://daniel.scheufler.io/2022/01/03/comments-now-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
