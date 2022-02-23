@@ -20,7 +20,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Identity Proceeds Behavior](https://daniel.scheufler.io/2022/02/23/identity-proceeds-behavior/)
+- [Identity Precedes Behavior](https://daniel.scheufler.io/2022/02/16/identity-proceeds-behavior/)
 - [Am I bothering you? Effectively onboarding as a Junior Developer](https://daniel.scheufler.io/2022/02/16/onboarding-junior-engineer/)
 - [The roots of agility](https://daniel.scheufler.io/2022/02/02/roots-of-agility/)
 - [How to start building your &#39;second brain&#39;](https://daniel.scheufler.io/2022/01/19/pkm-second-brain/)
