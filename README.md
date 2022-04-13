@@ -21,8 +21,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Mercy in Leadership - A Blinding flash of clarity](https://daniel.scheufler.io/2022/03/18/mercy-in-leadership/)
-- [Am I bothering you? Effectively onboarding as a Junior Developer](https://daniel.scheufler.io/2022/02/16/onboarding-junior-engineer/)
 - [Identity Precedes Behavior](https://daniel.scheufler.io/2022/02/16/identity-proceeds-behavior/)
+- [Am I bothering you? Effectively onboarding as a Junior Developer](https://daniel.scheufler.io/2022/02/16/onboarding-junior-engineer/)
 - [The roots of agility](https://daniel.scheufler.io/2022/02/02/roots-of-agility/)
 - [How to start building your &#39;second brain&#39;](https://daniel.scheufler.io/2022/01/19/pkm-second-brain/)
 <!-- BLOG-POST-LIST:END -->
