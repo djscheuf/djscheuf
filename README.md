@@ -20,11 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Rest Produces Excellence](https://daniel.scheufler.io/2022/06/02/rest-produces-excellence/)
 - [On Thought Leadership](https://daniel.scheufler.io/2022/04/27/on-thought-leadership/)
 - [Mercy in Leadership - A Blinding flash of clarity](https://daniel.scheufler.io/2022/03/18/mercy-in-leadership/)
-- [Am I bothering you? Effectively onboarding as a Junior Developer](https://daniel.scheufler.io/2022/02/16/onboarding-junior-engineer/)
 - [Identity Precedes Behavior](https://daniel.scheufler.io/2022/02/16/identity-proceeds-behavior/)
-- [The roots of agility](https://daniel.scheufler.io/2022/02/02/roots-of-agility/)
+- [Am I bothering you? Effectively onboarding as a Junior Developer](https://daniel.scheufler.io/2022/02/16/onboarding-junior-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
