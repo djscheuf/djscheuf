@@ -4,8 +4,8 @@
 
 ## 🕊️Christian, 👫Husband, and 👨‍👩‍👧Father, and Improver
 - 👀 I write about my experiences, tinkering projects and other moments of revelation on my blog, at [daniel.scheufler.io][website]
-- 🌱 I’m currently learning Github Actions, Cypress Test Automation, and practicing [Agile Conversations](https://agileconversations.com/).
-- 🥅 2022 Goals: I am shifting from 'To Do...' type goals to 'To Be...' type goals. With 2022Q1's focus currently set on 'Intentional'. You can read more on my [Now Page](https://daniel.scheufler.io/now/)
+- 🌱 I’m currently [practicing intentional rest](https://daniel.scheufler.io/2022/06/02/rest-produces-excellence/), and reading [The 15 Invaluable Laws of Growth](https://www.amazon.com/15-Invaluable-Laws-Growth-Potential/dp/1599953668).
+- 🥅 2022 Goals: I am shifting from 'To Do...' type goals to 'To Be...' type goals this year. With 2022Q2's focus on 'Rest'. You can read more on my [Now Page](https://daniel.scheufler.io/now/)
 
 ### Connect with me:
 
