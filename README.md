@@ -20,10 +20,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humble Leadership and the Council of Elrond](https://daniel.scheufler.io/2022/07/20/council-of-elrond/)
 - [How Rest Produces Excellence](https://daniel.scheufler.io/2022/06/02/rest-produces-excellence/)
 - [On Thought Leadership](https://daniel.scheufler.io/2022/04/27/on-thought-leadership/)
 - [Mercy in Leadership - A Blinding flash of clarity](https://daniel.scheufler.io/2022/03/18/mercy-in-leadership/)
-- [Am I bothering you? Effectively onboarding as a Junior Developer](https://daniel.scheufler.io/2022/02/16/onboarding-junior-engineer/)
 - [Identity Precedes Behavior](https://daniel.scheufler.io/2022/02/16/identity-proceeds-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
