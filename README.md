@@ -12,7 +12,9 @@
 [<img align="left" alt="daniel.scheufler.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="daniel@scheufler.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="Daniel Scheufler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Daniel Scheufler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Daniel Scheufler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="A Journeyman's Travels Podcast | Anchor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/blob/master/svg/audio-spectrum.svg" />][podcast]
+
+
 
 <br />
 
@@ -33,6 +35,7 @@
 [youtube]: https://www.youtube.com/channel/UCudsO4RmJDekSneHkTkyAAw
 [linkedin]: https://www.linkedin.com/in/danielscheufler/
 [email]: mailto:daniel@scheufler.io
+[podcast]: https://anchor.fm/journeymans-travels
 <!---
 djscheuf/djscheuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
