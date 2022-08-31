@@ -12,7 +12,8 @@
 [<img align="left" alt="daniel.scheufler.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="daniel@scheufler.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="Daniel Scheufler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Daniel Scheufler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="A Journeyman's Travels Podcast | Anchor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/blob/master/svg/audio-spectrum.svg" />][podcast]
+[<img align="left" alt="Daniel Scheufler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="A Journeyman's Travels Podcast | Anchor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/audio-spectrum.svg" />][podcast]
 
 
 
