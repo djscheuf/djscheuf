@@ -4,8 +4,8 @@
 
 ## 🕊️Christian, 👫Husband, and 👨‍👩‍👧Father, and Improver
 - 👀 I write about my experiences, tinkering projects and other moments of revelation on my blog, at [daniel.scheufler.io][website]
-- 🌱 I’m currently [practicing intentional rest](https://daniel.scheufler.io/2022/06/02/rest-produces-excellence/), and reading [The 15 Invaluable Laws of Growth](https://www.amazon.com/15-Invaluable-Laws-Growth-Potential/dp/1599953668).
-- 🥅 2022 Goals: I am shifting from 'To Do...' type goals to 'To Be...' type goals this year. With 2022Q2's focus on 'Rest'. You can read more on my [Now Page](https://daniel.scheufler.io/now/)
+- 🌱 I’m currently [writing several self-improvement books](https://leanpub.com/u/danielscheufler), and recently finished reading [The Effective Executive]([https://www.amazon.com/15-Invaluable-Laws-Growth-Potential/dp/1599953668](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459)).
+- 🥅 2022 Goals: I am shifting from 'To Do...' type goals to 'To Be...' type goals this year. With 2022Q3's focus on 'Returning to a maintainable pace'. You can read more on my [Now Page](https://daniel.scheufler.io/now/)
 
 ### Connect with me:
 
@@ -14,7 +14,6 @@
 [<img align="left" alt="Daniel Scheufler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Daniel Scheufler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="A Journeyman's Travels Podcast | Anchor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/audio-spectrum.svg" />][podcast]
-
 
 
 <br />
@@ -31,6 +30,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
+
+### 🎙️ Latest Podcasts
+<!-- PODCAST-LIST:START -->
+<!-- PODCAST-LIST:END -->
 
 [website]: https://daniel.scheufler.io
 [youtube]: https://www.youtube.com/channel/UCudsO4RmJDekSneHkTkyAAw
