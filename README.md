@@ -33,6 +33,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [Mercy in Leadership](https://anchor.fm/journeymans-travels/episodes/Mercy-in-Leadership-e1mbise)
+- [Extra: The Man in the Arena](https://anchor.fm/journeymans-travels/episodes/Extra-The-Man-in-the-Arena-e1ml8i5)
+- [How Rest Produces Excellence](https://anchor.fm/journeymans-travels/episodes/How-Rest-Produces-Excellence-e1mbc3h)
+- [On Thought Leadership](https://anchor.fm/journeymans-travels/episodes/On-Thought-Leadership-e1mbio5)
+- [Humility in Leadership, and the Council of Elrond](https://anchor.fm/journeymans-travels/episodes/Humility-in-Leadership--and-the-Council-of-Elrond-e1maqho)
 <!-- PODCAST-LIST:END -->
 
 [website]: https://daniel.scheufler.io
