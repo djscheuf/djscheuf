@@ -33,11 +33,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [Identity Precedes Behavior](https://anchor.fm/journeymans-travels/episodes/Identity-Precedes-Behavior-e1mesuk)
+- [Extra: A Book in Review - The Effective Executive](https://anchor.fm/journeymans-travels/episodes/Extra-A-Book-in-Review---The-Effective-Executive-e1nbj9o)
 - [Behaviors Build Culture](https://anchor.fm/journeymans-travels/episodes/Behaviors-Build-Culture-e1mdak3)
 - [Mercy in Leadership](https://anchor.fm/journeymans-travels/episodes/Mercy-in-Leadership-e1mbise)
 - [Extra: The Man in the Arena](https://anchor.fm/journeymans-travels/episodes/Extra-The-Man-in-the-Arena-e1ml8i5)
-- [How Rest Produces Excellence](https://anchor.fm/journeymans-travels/episodes/How-Rest-Produces-Excellence-e1mbc3h)
-- [On Thought Leadership](https://anchor.fm/journeymans-travels/episodes/On-Thought-Leadership-e1mbio5)
 <!-- PODCAST-LIST:END -->
 
 [website]: https://daniel.scheufler.io
