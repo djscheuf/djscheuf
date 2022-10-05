@@ -33,11 +33,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [Hot Take: Trust in the Rings of Power](https://anchor.fm/journeymans-travels/episodes/Hot-Take-Trust-in-the-Rings-of-Power-e1ogdts)
 - [Conversational Bids for High Performing Teams](https://anchor.fm/journeymans-travels/episodes/Conversational-Bids-for-High-Performing-Teams-e1met57)
 - [Identity Precedes Behavior](https://anchor.fm/journeymans-travels/episodes/Identity-Precedes-Behavior-e1mesuk)
 - [Extra: A Book in Review - The Effective Executive](https://anchor.fm/journeymans-travels/episodes/Extra-A-Book-in-Review---The-Effective-Executive-e1nbj9o)
 - [Behaviors Build Culture](https://anchor.fm/journeymans-travels/episodes/Behaviors-Build-Culture-e1mdak3)
-- [Mercy in Leadership](https://anchor.fm/journeymans-travels/episodes/Mercy-in-Leadership-e1mbise)
 <!-- PODCAST-LIST:END -->
 
 [website]: https://daniel.scheufler.io
