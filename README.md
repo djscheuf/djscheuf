@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seeing through their eyes](https://daniel.scheufler.io/2022/10/28/see-through-their-eyes/)
 - [Vital Skills of an Effective Agile Coach  &lpar;From the Developers Point of View&rpar;](https://daniel.scheufler.io/2022/08/31/skills-of-effect-agile-coach/)
 - [Humble Leadership and the Council of Elrond](https://daniel.scheufler.io/2022/07/20/council-of-elrond/)
 - [How Rest Produces Excellence](https://daniel.scheufler.io/2022/06/02/rest-produces-excellence/)
 - [On Thought Leadership](https://daniel.scheufler.io/2022/04/27/on-thought-leadership/)
-- [Mercy in Leadership - A Blinding flash of clarity](https://daniel.scheufler.io/2022/03/18/mercy-in-leadership/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
