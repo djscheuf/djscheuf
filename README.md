@@ -33,11 +33,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [Leveraging statistics to supercharge your impact!](https://anchor.fm/journeymans-travels/episodes/Leveraging-statistics-to-supercharge-your-impact-e1pre2g)
 - [The Dev Lead Working Agreement](https://anchor.fm/journeymans-travels/episodes/The-Dev-Lead-Working-Agreement-e1prd6j)
 - [What does it mean to lead a team?](https://anchor.fm/journeymans-travels/episodes/What-does-it-mean-to-lead-a-team-e1ppo5o)
 - [Season 2 Trailer](https://anchor.fm/journeymans-travels/episodes/Season-2-Trailer-e1prhj3)
 - [Hot Take: Trust in the Rings of Power](https://anchor.fm/journeymans-travels/episodes/Hot-Take-Trust-in-the-Rings-of-Power-e1ogdts)
-- [Conversational Bids for High Performing Teams](https://anchor.fm/journeymans-travels/episodes/Conversational-Bids-for-High-Performing-Teams-e1met57)
 <!-- PODCAST-LIST:END -->
 
 [website]: https://daniel.scheufler.io
