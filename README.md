@@ -33,11 +33,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [On Effectively Communicating Gratitude](https://anchor.fm/journeymans-travels/episodes/On-Effectively-Communicating-Gratitude-e1q4tsn)
+- [Extra: Sea Fever](https://anchor.fm/journeymans-travels/episodes/Extra-Sea-Fever-e1preqd)
 - [Leveraging statistics to supercharge your impact!](https://anchor.fm/journeymans-travels/episodes/Leveraging-statistics-to-supercharge-your-impact-e1pre2g)
 - [The Dev Lead Working Agreement](https://anchor.fm/journeymans-travels/episodes/The-Dev-Lead-Working-Agreement-e1prd6j)
 - [What does it mean to lead a team?](https://anchor.fm/journeymans-travels/episodes/What-does-it-mean-to-lead-a-team-e1ppo5o)
-- [Season 2 Trailer](https://anchor.fm/journeymans-travels/episodes/Season-2-Trailer-e1prhj3)
-- [Hot Take: Trust in the Rings of Power](https://anchor.fm/journeymans-travels/episodes/Hot-Take-Trust-in-the-Rings-of-Power-e1ogdts)
 <!-- PODCAST-LIST:END -->
 
 [website]: https://daniel.scheufler.io
