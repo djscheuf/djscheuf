@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=daniel.scheufler.io&style=for-the-badge&url=https%3A%2F%2Fdaniel.scheufler.io)][website]
 
+
 ## 🕊️Christian, 👫Husband, and 👨‍👩‍👧Father, and Improver
 - 👀 I write about my experiences, tinkering projects and other moments of revelation on my blog, at [daniel.scheufler.io][website]
 - 🌱 I’m currently [writing several self-improvement books](https://leanpub.com/u/danielscheufler), and recently finished reading [The Effective Executive]([https://www.amazon.com/15-Invaluable-Laws-Growth-Potential/dp/1599953668](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459)).
@@ -39,6 +40,10 @@
 - [Leveraging statistics to supercharge your impact!](https://anchor.fm/journeymans-travels/episodes/Leveraging-statistics-to-supercharge-your-impact-e1pre2g)
 - [The Dev Lead Working Agreement](https://anchor.fm/journeymans-travels/episodes/The-Dev-Lead-Working-Agreement-e1prd6j)
 <!-- PODCAST-LIST:END -->
+
+Found the content help? Want to help keep the site going?
+
+<a href="https://www.buymeacoffee.com/djscheuf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee?" style="height: 60px !important;width: 217px !important;" ></a>
 
 [website]: https://daniel.scheufler.io
 [youtube]: https://www.youtube.com/channel/UCudsO4RmJDekSneHkTkyAAw
