@@ -41,7 +41,7 @@
 - [The Dev Lead Working Agreement](https://anchor.fm/journeymans-travels/episodes/The-Dev-Lead-Working-Agreement-e1prd6j)
 <!-- PODCAST-LIST:END -->
 
-Found the content help? Want to help keep the site going?
+Found the content helpful? Want to help keep the site going?
 
 <a href="https://www.buymeacoffee.com/djscheuf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee?" style="height: 60px !important;width: 217px !important;" ></a>
 
