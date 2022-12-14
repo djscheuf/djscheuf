@@ -34,11 +34,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [Impactful Retrospectices through Effective Communication](https://anchor.fm/journeymans-travels/episodes/Impactful-Retrospectices-through-Effective-Communication-e1r5ac0)
 - [Communication in Code](https://anchor.fm/journeymans-travels/episodes/Communication-in-Code-e1r2ahl)
 - [Most everything your do is communication!](https://anchor.fm/journeymans-travels/episodes/Most-everything-your-do-is-communication-e1prev5)
 - [On Effectively Communicating Gratitude](https://anchor.fm/journeymans-travels/episodes/On-Effectively-Communicating-Gratitude-e1q4tsn)
 - [Extra: Sea Fever](https://anchor.fm/journeymans-travels/episodes/Extra-Sea-Fever-e1preqd)
-- [Leveraging statistics to supercharge your impact!](https://anchor.fm/journeymans-travels/episodes/Leveraging-statistics-to-supercharge-your-impact-e1pre2g)
 <!-- PODCAST-LIST:END -->
 
 Found the content helpful? Want to help keep the site going?
