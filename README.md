@@ -41,6 +41,8 @@
 - [Extra: Sea Fever](https://anchor.fm/journeymans-travels/episodes/Extra-Sea-Fever-e1preqd)
 <!-- PODCAST-LIST:END -->
 
+➡️ [more episodes...](https://anchor.fm/journeymans-travels)
+
 Found the content helpful? Want to help keep the site going?
 
 <a href="https://www.buymeacoffee.com/djscheuf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee?" style="height: 60px !important;width: 217px !important;" ></a>
