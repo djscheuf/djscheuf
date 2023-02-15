@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On Learning and Humility](https://daniel.scheufler.io/2023/02/14/learning-and-humility/)
 - [Where to start a Cybersecurity Transformation?](https://daniel.scheufler.io/2023/01/10/security-transformation/)
 - [On Endurance](https://daniel.scheufler.io/2022/12/09/on-endurance/)
 - [Seeing through their eyes](https://daniel.scheufler.io/2022/10/28/see-through-their-eyes/)
 - [Vital Skills of an Effective Agile Coach  &lpar;From the Developers Point of View&rpar;](https://daniel.scheufler.io/2022/08/31/skills-of-effect-agile-coach/)
-- [Humble Leadership and the Council of Elrond](https://daniel.scheufler.io/2022/07/20/council-of-elrond/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
