@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DISC Profiles and Trust Behaviors](https://daniel.scheufler.io/2023/03/21/disc-and-trust/)
 - [On Effective Delegation](https://daniel.scheufler.io/2023/03/14/on-effective-delegation/)
 - [Culture as Reaction to Behaviors](https://daniel.scheufler.io/2023/03/07/culture-reaction-to-behavior/)
 - [On AI and the Future of Software Development](https://daniel.scheufler.io/2023/02/21/ai-software-future/)
 - [On Learning and Humility](https://daniel.scheufler.io/2023/02/14/learning-and-humility/)
-- [Where to start a Cybersecurity Transformation?](https://daniel.scheufler.io/2023/01/10/security-transformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
