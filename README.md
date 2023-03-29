@@ -34,11 +34,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
-- [Season 3 Trailer](https://anchor.fm/journeymans-travels/episodes/Season-3-Trailer-e208i5e)
-- [Extra: Ithaka](https://anchor.fm/journeymans-travels/episodes/Extra-Ithaka-e1sqrnk)
-- [Impactful Retrospectives through Effective Communication](https://anchor.fm/journeymans-travels/episodes/Impactful-Retrospectives-through-Effective-Communication-e1r5ac0)
-- [Communication in Code](https://anchor.fm/journeymans-travels/episodes/Communication-in-Code-e1r2ahl)
-- [Most everything your do is communication!](https://anchor.fm/journeymans-travels/episodes/Most-everything-your-do-is-communication-e1prev5)
+- [Retrospectives must be Intentional](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-must-be-Intentional-e1tg27a)
+- [Season 3 Trailer](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Season-3-Trailer-e208i5e)
+- [Extra: Ithaka](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Extra-Ithaka-e1sqrnk)
+- [Impactful Retrospectives through Effective Communication](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Impactful-Retrospectives-through-Effective-Communication-e1r5ac0)
+- [Communication in Code](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Communication-in-Code-e1r2ahl)
 <!-- PODCAST-LIST:END -->
 
 ➡️ [more episodes...](https://anchor.fm/journeymans-travels)
