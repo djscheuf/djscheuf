@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The relationship between coach and players](https://daniel.scheufler.io/2023/04/04/coach-and-players/)
+- [Show Notes - Retros must produce change](https://daniel.scheufler.io/2023/03/31/show-notes-retros-must-produce-change/)
 - [Asking the Right questions for agility](https://daniel.scheufler.io/2023/03/28/ask-right-questions-agile/)
 - [Show Notes - Retros must be intentional](https://daniel.scheufler.io/2023/03/24/show-notes-retros-must-be-intentional/)
 - [DISC Profiles and Trust Behaviors](https://daniel.scheufler.io/2023/03/21/disc-and-trust/)
-- [On Effective Delegation](https://daniel.scheufler.io/2023/03/14/on-effective-delegation/)
-- [Culture as Reaction to Behaviors](https://daniel.scheufler.io/2023/03/07/culture-reaction-to-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
