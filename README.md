@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Show Notes - Retros are for people](https://daniel.scheufler.io/2023/04/07/show-notes-retros-are-for-people/)
 - [The relationship between coach and players](https://daniel.scheufler.io/2023/04/04/coach-and-players/)
 - [Show Notes - Retros must produce change](https://daniel.scheufler.io/2023/03/31/show-notes-retros-must-produce-change/)
 - [Asking the Right questions for agility](https://daniel.scheufler.io/2023/03/28/ask-right-questions-agile/)
 - [Show Notes - Retros must be intentional](https://daniel.scheufler.io/2023/03/24/show-notes-retros-must-be-intentional/)
-- [DISC Profiles and Trust Behaviors](https://daniel.scheufler.io/2023/03/21/disc-and-trust/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
