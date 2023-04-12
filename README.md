@@ -34,11 +34,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [Retrospectives are For People](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-are-For-People-e1uebl2)
 - [Retrospectives Must Produce Change](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-Must-Produce-Change-e1tg29c)
 - [Retrospectives must be Intentional](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-must-be-Intentional-e1tg27a)
 - [Season 3 Trailer](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Season-3-Trailer-e208i5e)
 - [Extra: Ithaka](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Extra-Ithaka-e1sqrnk)
-- [Impactful Retrospectives through Effective Communication](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Impactful-Retrospectives-through-Effective-Communication-e1r5ac0)
 <!-- PODCAST-LIST:END -->
 
 ➡️ [more episodes...](https://anchor.fm/journeymans-travels)
