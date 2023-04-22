@@ -2,11 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=daniel.scheufler.io&style=for-the-badge&url=https%3A%2F%2Fdaniel.scheufler.io)][website]
 
-
 ## 🕊️Christian, 👫Husband, and 👨‍👩‍👧Father, and Improver
 - 👀 I write about my experiences, tinkering projects and other moments of revelation on my blog, at [daniel.scheufler.io][website]
-- 🌱 I’m currently [writing several self-improvement books](https://leanpub.com/u/danielscheufler), and recently finished reading [The Effective Executive]([https://www.amazon.com/15-Invaluable-Laws-Growth-Potential/dp/1599953668](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459)).
-- 🥅 2022 Goals: I am shifting from 'To Do...' type goals to 'To Be...' type goals this year. With 2022Q3's focus on 'Returning to a maintainable pace'. You can read more on my [Now Page](https://daniel.scheufler.io/now/)
+- 🌱 I’m currently learning how to support multiple frameworks from the same UI codebase, enterprise coaching, and practicing [effectiveness](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459).
+- 🥅 2023 Goals: I am running the [Improving Talks Initiative][improvingtalks], selecting and promoting content. And I am [building a content business][leanpub]! You can read more on my [Now Page](https://daniel.scheufler.io/now/)
 
 ### Connect with me:
 
@@ -16,32 +15,22 @@
 [<img align="left" alt="Daniel Scheufler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="A Journeyman's Travels Podcast | Anchor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/audio-spectrum.svg" />][podcast]
 
-
 <br />
 
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Incentives](https://daniel.scheufler.io/2023/04/18/developer-incentives/)
-- [Show Notes - Leadership is NOT about you](https://daniel.scheufler.io/2023/04/15/show-notes-leadership-not-about-you/)
-- [Show Notes - Retros are for people](https://daniel.scheufler.io/2023/04/07/show-notes-retros-are-for-people/)
-- [The relationship between coach and players](https://daniel.scheufler.io/2023/04/04/coach-and-players/)
-- [Show Notes - Retros must produce change](https://daniel.scheufler.io/2023/03/31/show-notes-retros-must-produce-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
-- [Leadership is not about you](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Leadership-is-not-about-you-e20mbg5)
-- [Retrospectives are For People](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-are-For-People-e1uebl2)
-- [Retrospectives Must Produce Change](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-Must-Produce-Change-e1tg29c)
-- [Retrospectives must be Intentional](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-must-be-Intentional-e1tg27a)
-- [Season 3 Trailer](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Season-3-Trailer-e208i5e)
 <!-- PODCAST-LIST:END -->
 
 ➡️ [more episodes...](https://anchor.fm/journeymans-travels)
+
 
 Found the content helpful? Want to help keep the site going?
 
@@ -52,6 +41,9 @@ Found the content helpful? Want to help keep the site going?
 [linkedin]: https://www.linkedin.com/in/danielscheufler/
 [email]: mailto:daniel@scheufler.io
 [podcast]: https://anchor.fm/journeymans-travels
+[improvingtalks]: https://www.youtube.com/playlist?list=PLqXBkW2Bgxfgw_ye7p9grNCIw3HN_euWL
+[leanpub]:https://leanpub.com/u/danielscheufler
+
 <!---
 djscheuf/djscheuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
