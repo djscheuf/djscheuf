@@ -21,12 +21,22 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Incentives](https://daniel.scheufler.io/2023/04/18/developer-incentives/)
+- [Show Notes - Leadership is NOT about you](https://daniel.scheufler.io/2023/04/15/show-notes-leadership-not-about-you/)
+- [Show Notes - Retros are for people](https://daniel.scheufler.io/2023/04/07/show-notes-retros-are-for-people/)
+- [The relationship between coach and players](https://daniel.scheufler.io/2023/04/04/coach-and-players/)
+- [Show Notes - Retros must produce change](https://daniel.scheufler.io/2023/03/31/show-notes-retros-must-produce-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [Leadership is about Time](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Leadership-is-about-Time-e20mbbg)
+- [Leadership is not about you](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Leadership-is-not-about-you-e20mbg5)
+- [Retrospectives are For People](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-are-For-People-e1uebl2)
+- [Retrospectives Must Produce Change](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-Must-Produce-Change-e1tg29c)
+- [Retrospectives must be Intentional](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-must-be-Intentional-e1tg27a)
 <!-- PODCAST-LIST:END -->
 
 ➡️ [more episodes...](https://anchor.fm/journeymans-travels)
