@@ -21,6 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Incentives](https://daniel.scheufler.io/2023/04/18/developer-incentives/)
+- [Show Notes - Leadership is NOT about you](https://daniel.scheufler.io/2023/04/15/show-notes-leadership-not-about-you/)
+- [Show Notes - Retros are for people](https://daniel.scheufler.io/2023/04/07/show-notes-retros-are-for-people/)
+- [The relationship between coach and players](https://daniel.scheufler.io/2023/04/04/coach-and-players/)
+- [Show Notes - Retros must produce change](https://daniel.scheufler.io/2023/03/31/show-notes-retros-must-produce-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
