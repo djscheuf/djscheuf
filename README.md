@@ -32,11 +32,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [Leadership is about Systems](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Leadership-is-about-Systems-e21mt46)
 - [Leadership is about Time](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Leadership-is-about-Time-e20mbbg)
 - [Leadership is not about you](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Leadership-is-not-about-you-e20mbg5)
 - [Retrospectives are For People](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-are-For-People-e1uebl2)
 - [Retrospectives Must Produce Change](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-Must-Produce-Change-e1tg29c)
-- [Retrospectives must be Intentional](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Retrospectives-must-be-Intentional-e1tg27a)
 <!-- PODCAST-LIST:END -->
 
 ➡️ [more episodes...](https://anchor.fm/journeymans-travels)
