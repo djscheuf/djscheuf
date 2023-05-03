@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Prerequisites of Delegation](https://daniel.scheufler.io/2023/05/02/prereq-delegation/)
+- [Show Notes - Leadership is about systems](https://daniel.scheufler.io/2023/04/29/show-notes-leadership-about-systems/)
 - [Too much ship, Too little rudder](https://daniel.scheufler.io/2023/04/25/too-much-ship/)
 - [Show Notes - Leadership is about time](https://daniel.scheufler.io/2023/04/22/show-notes-leadership-about-time/)
 - [Developer Incentives](https://daniel.scheufler.io/2023/04/18/developer-incentives/)
-- [Show Notes - Leadership is NOT about you](https://daniel.scheufler.io/2023/04/15/show-notes-leadership-not-about-you/)
-- [Show Notes - Retros are for people](https://daniel.scheufler.io/2023/04/07/show-notes-retros-are-for-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
