@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On Organizing Effective Docs](https://daniel.scheufler.io/2023/06/05/organizing-effective-docs/)
 - [Organization as Amplifier](https://daniel.scheufler.io/2023/05/16/organization-amplifier/)
 - [Cultural Tune-ups](https://daniel.scheufler.io/2023/05/09/cultural-tune-ups/)
 - [Show Notes - Leadership is about endurance](https://daniel.scheufler.io/2023/05/06/show-notes-leadership-about-endurance/)
 - [The Prerequisites of Delegation](https://daniel.scheufler.io/2023/05/02/prereq-delegation/)
-- [Show Notes - Leadership is about systems](https://daniel.scheufler.io/2023/04/29/show-notes-leadership-about-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
