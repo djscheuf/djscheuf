@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On the Nature of Scrum Masters](https://daniel.scheufler.io/2023/07/11/nature-of-scrum-masters/)
+- [Sprint Demo as a Software Test](https://daniel.scheufler.io/2023/07/06/demo-as-test/)
 - [It is hard to follow a wavering guide](https://daniel.scheufler.io/2023/06/27/wavering-guide/)
 - [Leading with Silence](https://daniel.scheufler.io/2023/06/20/leading-with-silence/)
 - [Leadership through Documentation](https://daniel.scheufler.io/2023/06/13/leadership-thru-documentation/)
-- [On Organizing Effective Docs](https://daniel.scheufler.io/2023/06/05/organizing-effective-docs/)
-- [Organization as Amplifier](https://daniel.scheufler.io/2023/05/16/organization-amplifier/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
