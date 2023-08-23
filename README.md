@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Effective Collaborative Problem Solving in your Retros](https://daniel.scheufler.io/2023/08/22/unlock-effective-collab-problem-solving-retros/)
 - [Organization as Fractal](https://daniel.scheufler.io/2023/08/01/organization-fractal/)
 - [On the Nature of Scrum Masters](https://daniel.scheufler.io/2023/07/11/nature-of-scrum-masters/)
 - [Sprint Demo as a Software Test](https://daniel.scheufler.io/2023/07/06/demo-as-test/)
 - [It is hard to follow a wavering guide](https://daniel.scheufler.io/2023/06/27/wavering-guide/)
-- [Leading with Silence](https://daniel.scheufler.io/2023/06/20/leading-with-silence/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
