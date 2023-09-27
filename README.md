@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strength comes from dichotomy](https://daniel.scheufler.io/2023/09/26/organization-strength/)
+- [Agility is an Organism&#39;s Characteristic](https://daniel.scheufler.io/2023/09/19/agile-organism/)
 - [Organization as Organism](https://daniel.scheufler.io/2023/09/12/organization-organism/)
 - [Unlocking Effective Collaborative Problem Solving in your Retros](https://daniel.scheufler.io/2023/08/22/unlock-effective-collab-problem-solving-retros/)
 - [Organization as Fractal](https://daniel.scheufler.io/2023/08/01/organization-fractal/)
-- [On the Nature of Scrum Masters](https://daniel.scheufler.io/2023/07/11/nature-of-scrum-masters/)
-- [Sprint Demo as a Software Test](https://daniel.scheufler.io/2023/07/06/demo-as-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
