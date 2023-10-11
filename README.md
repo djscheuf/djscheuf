@@ -32,11 +32,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [Effectiveness can be Learned](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Effectiveness-can-be-Learned-e29fi26)
 - [An Introduction to The Effective Executive](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/An-Introduction-to-The-Effective-Executive-e29fhf1)
 - [Season Trailer - The Effective Executive Bookclub](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Season-Trailer---The-Effective-Executive-Bookclub-e295cd4)
 - [Leadership is about Endurance](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Leadership-is-about-Endurance-e21mtfb)
 - [Leadership is about Systems](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Leadership-is-about-Systems-e21mt46)
-- [Leadership is about Time](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Leadership-is-about-Time-e20mbbg)
 <!-- PODCAST-LIST:END -->
 
 ➡️ [more episodes...](https://anchor.fm/journeymans-travels)
