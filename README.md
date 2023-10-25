@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Molecules made with Scrum](https://daniel.scheufler.io/2023/10/24/scrum-molecules/)
 - [Scrum is Atomic](https://daniel.scheufler.io/2023/10/17/scrum-is-atomic/)
 - [How strength becomes agility](https://daniel.scheufler.io/2023/10/03/organization-strength-to-agility/)
 - [Strength comes from dichotomy](https://daniel.scheufler.io/2023/09/26/organization-strength/)
 - [Agility is an Organism&#39;s Characteristic](https://daniel.scheufler.io/2023/09/19/agile-organism/)
-- [Organization as Organism](https://daniel.scheufler.io/2023/09/12/organization-organism/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
