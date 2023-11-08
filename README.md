@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vernacular Software Architecture](https://daniel.scheufler.io/2023/11/07/vernacular-software-architecture/)
 - [Working Systems and Scrum](https://daniel.scheufler.io/2023/10/31/scrum-working-systems/)
 - [Molecules made with Scrum](https://daniel.scheufler.io/2023/10/24/scrum-molecules/)
 - [Scrum is Atomic](https://daniel.scheufler.io/2023/10/17/scrum-is-atomic/)
 - [How strength becomes agility](https://daniel.scheufler.io/2023/10/03/organization-strength-to-agility/)
-- [Strength comes from dichotomy](https://daniel.scheufler.io/2023/09/26/organization-strength/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
