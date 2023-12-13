@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Transformational Questions](https://daniel.scheufler.io/2023/12/05/transformational-questions/)
 - [Communication and Context](https://daniel.scheufler.io/2023/11/21/communication-and-context/)
 - [Software And Roads](https://daniel.scheufler.io/2023/11/14/software-and-roads/)
 - [Vernacular Software Architecture](https://daniel.scheufler.io/2023/11/07/vernacular-software-architecture/)
 - [Working Systems and Scrum](https://daniel.scheufler.io/2023/10/31/scrum-working-systems/)
-- [Molecules made with Scrum](https://daniel.scheufler.io/2023/10/24/scrum-molecules/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
