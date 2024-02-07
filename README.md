@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Metrics in Tension](https://daniel.scheufler.io/2024/02/06/metrics-in-tension/)
 - [Recent Trends with Copilot](https://daniel.scheufler.io/2024/01/30/copilot-troubling-trend/)
 - [Transformational Questions](https://daniel.scheufler.io/2023/12/05/transformational-questions/)
 - [Communication and Context](https://daniel.scheufler.io/2023/11/21/communication-and-context/)
 - [Software And Roads](https://daniel.scheufler.io/2023/11/14/software-and-roads/)
-- [Vernacular Software Architecture](https://daniel.scheufler.io/2023/11/07/vernacular-software-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
