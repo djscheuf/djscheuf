@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you design a good Retro?](https://daniel.scheufler.io/2024/03/05/design-good-retro/)
 - [The moving goalpost of &#39;Effective&#39;](https://daniel.scheufler.io/2024/02/13/moving-goalpost-effective/)
 - [Metrics in Tension](https://daniel.scheufler.io/2024/02/06/metrics-in-tension/)
 - [Recent Trends with Copilot](https://daniel.scheufler.io/2024/01/30/copilot-troubling-trend/)
 - [Transformational Questions](https://daniel.scheufler.io/2023/12/05/transformational-questions/)
-- [Communication and Context](https://daniel.scheufler.io/2023/11/21/communication-and-context/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
