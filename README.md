@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Checklists](https://daniel.scheufler.io/2024/05/21/checklists/)
 - [Story Points are Cost](https://daniel.scheufler.io/2024/05/07/points-are-cost/)
 - [The Process of Transformation](https://daniel.scheufler.io/2024/04/30/process-of-transformation/)
 - [A Secret Tool of Leadership](https://daniel.scheufler.io/2024/04/23/secret-tool-repetition/)
 - [Design For Failure](https://daniel.scheufler.io/2024/04/09/design-for-failure/)
-- [How do you design a good Retro?](https://daniel.scheufler.io/2024/03/05/design-good-retro/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
