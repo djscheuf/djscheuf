@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Book Review - Love And Work](https://daniel.scheufler.io/2024/07/02/book-review-love-and-work/)
 - [Custom Software should give your Organization new Verbs!](https://daniel.scheufler.io/2024/06/04/software-as-new-verbs/)
 - [On the simple courage of Leadership](https://daniel.scheufler.io/2024/05/28/simple-courage/)
 - [The Power of Checklists](https://daniel.scheufler.io/2024/05/21/checklists/)
 - [Story Points are Cost](https://daniel.scheufler.io/2024/05/07/points-are-cost/)
-- [The Process of Transformation](https://daniel.scheufler.io/2024/04/30/process-of-transformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
