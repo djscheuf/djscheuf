@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Repetetive Organizational Strain Injury](https://daniel.scheufler.io/2024/09/10/org-strain-injury/)
+- [Drucker&#39;s Blueprint - Product Owners Build Executive Skills](https://daniel.scheufler.io/2024/09/04/efvexec-po-executive-skills/)
+- [Drucker&#39;s Blueprint - The Effective Product Owner Works Through Others](https://daniel.scheufler.io/2024/08/21/efvexec-po-work-thru-others/)
+- [Drucker&#39;s Blueprint - The Effective Product Owner Evolves the Process](https://daniel.scheufler.io/2024/08/07/efvexec-po-evolve-process/)
 - [Cultivate Employee Judgment](https://daniel.scheufler.io/2024/08/06/cultivate-employee-judgment/)
-- [Book Review - Love And Work](https://daniel.scheufler.io/2024/07/02/book-review-love-and-work/)
-- [Custom Software should give your Organization new Verbs!](https://daniel.scheufler.io/2024/06/04/software-as-new-verbs/)
-- [On the simple courage of Leadership](https://daniel.scheufler.io/2024/05/28/simple-courage/)
-- [The Power of Checklists](https://daniel.scheufler.io/2024/05/21/checklists/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
