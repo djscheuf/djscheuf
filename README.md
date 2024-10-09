@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Book Review - The Adventures of Johnny Bunko](https://daniel.scheufler.io/2024/10/07/book-review-johnny-bunko/)
 - [Repetetive Organizational Strain Injury](https://daniel.scheufler.io/2024/09/10/org-strain-injury/)
 - [Drucker&#39;s Blueprint - Product Owners Build Executive Skills](https://daniel.scheufler.io/2024/09/04/efvexec-po-executive-skills/)
 - [Drucker&#39;s Blueprint - The Effective Product Owner Works Through Others](https://daniel.scheufler.io/2024/08/21/efvexec-po-work-thru-others/)
 - [Drucker&#39;s Blueprint - The Effective Product Owner Evolves the Process](https://daniel.scheufler.io/2024/08/07/efvexec-po-evolve-process/)
-- [Cultivate Employee Judgment](https://daniel.scheufler.io/2024/08/06/cultivate-employee-judgment/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
