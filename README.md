@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [0,1,N Tests and Understanding Teams](https://daniel.scheufler.io/2024/12/09/0-1-n-tests/)
 - [How to fix a Broken Work-System](https://daniel.scheufler.io/2024/11/19/fix-broken-work-system/)
 - [APIs and the Walls They Build - Do Good Fences Make Good Neighbors?](https://daniel.scheufler.io/2024/11/06/good-fences-good-neighbors/)
 - [Performance is a Function of the Individual and the System](https://daniel.scheufler.io/2024/10/28/performance-function-individual-system/)
 - [Book Review - The Adventures of Johnny Bunko](https://daniel.scheufler.io/2024/10/07/book-review-johnny-bunko/)
-- [Repetetive Organizational Strain Injury](https://daniel.scheufler.io/2024/09/10/org-strain-injury/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
