@@ -32,11 +32,11 @@
 
 ### 🎙️ Latest Podcasts
 <!-- PODCAST-LIST:START -->
+- [The Effective Executive Conclusion](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/The-Effective-Executive-Conclusion-e2q16nr)
 - [Effective Decisions](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Effective-Decisions-e2pt42q)
 - [Elements of Decision Making Part 2](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Elements-of-Decision-Making-Part-2-e2pt41u)
 - [Elements of Decision Making Part 1](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Elements-of-Decision-Making-Part-1-e2pt40e)
 - [Trailer - Completing the Effective Executive](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/Trailer---Completing-the-Effective-Executive-e2q16kh)
-- [First Things First](https://podcasters.spotify.com/pod/show/journeymans-travels/episodes/First-Things-First-e2c1nln)
 <!-- PODCAST-LIST:END -->
 
 ➡️ [more episodes...](https://anchor.fm/journeymans-travels)
