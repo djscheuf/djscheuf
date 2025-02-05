@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pursue Desirable Difficult](https://daniel.scheufler.io/2025/02/04/pursue-desirable-difficulty/)
 - [Behavioral Markers for Work Interruptions](https://daniel.scheufler.io/2025/01/21/marks-for-work-interruptions/)
 - [Beat the New Year&#39;s Resolution Odds](https://daniel.scheufler.io/2025/01/07/beat-resolution-odds/)
 - [Your Organization Probably Skipped Practice](https://daniel.scheufler.io/2024/12/16/skipping-practice/)
 - [0,1,N Tests and Understanding Teams](https://daniel.scheufler.io/2024/12/09/0-1-n-tests/)
-- [How to fix a Broken Work-System](https://daniel.scheufler.io/2024/11/19/fix-broken-work-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.io)
