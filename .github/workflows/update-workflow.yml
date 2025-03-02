@@ -14,7 +14,7 @@ jobs:
       - name: Pull in Blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://daniel.scheufler.io/rss2.xml"
+          feed_list: "https://daniel.scheufler.tech/rss2.xml"
   update-readme-with-podcast:
     name: Update this repo's README with latest podcasts
     runs-on: ubuntu-latest
