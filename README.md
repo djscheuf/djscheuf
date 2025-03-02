@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Speed of learning limits speed of change!](https://daniel.scheufler.io/2025/02/18/speed-learn-speed-change/)
-- [Pursue Desirable Difficult](https://daniel.scheufler.io/2025/02/04/pursue-desirable-difficulty/)
-- [Behavioral Markers for Work Interruptions](https://daniel.scheufler.io/2025/01/21/marks-for-work-interruptions/)
-- [Beat the New Year&#39;s Resolution Odds](https://daniel.scheufler.io/2025/01/07/beat-resolution-odds/)
-- [Your Organization Probably Skipped Practice](https://daniel.scheufler.io/2024/12/16/skipping-practice/)
+- [Speed of learning limits speed of change!](https://daniel.scheufler.tech/blog/speed-learn-speed-change/)
+- [Pursue Desirable Difficulty](https://daniel.scheufler.tech/blog/pursue-desirable-difficulty/)
+- [Behavioral Markers for Work Interruptions](https://daniel.scheufler.tech/blog/marks-for-work-interruptions/)
+- [Beat the New Year&#39;s Resolution Odds](https://daniel.scheufler.tech/blog/beat-resolution-odds/)
+- [Your Organization Probably Skipped Practice](https://daniel.scheufler.tech/blog/skipping-practice/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
