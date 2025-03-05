@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Safely Proof Core Changes](https://daniel.scheufler.tech/blog/safely-proof-core-changes/)
 - [Speed of learning limits speed of change!](https://daniel.scheufler.tech/blog/speed-learn-speed-change/)
 - [Pursue Desirable Difficulty](https://daniel.scheufler.tech/blog/pursue-desirable-difficulty/)
 - [Behavioral Markers for Work Interruptions](https://daniel.scheufler.tech/blog/marks-for-work-interruptions/)
 - [Beat the New Year&#39;s Resolution Odds](https://daniel.scheufler.tech/blog/beat-resolution-odds/)
-- [Your Organization Probably Skipped Practice](https://daniel.scheufler.tech/blog/skipping-practice/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
