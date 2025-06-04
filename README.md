@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Account for Conway&#39;s Law in your Architecture](https://daniel.scheufler.tech/blog/conways-law-software-architecture/)
 - [AI Won&#39;t Transform Your Business](https://daniel.scheufler.tech/blog/ai-wont-transform/)
 - [There&#39;s Nothing so Permanent...](https://daniel.scheufler.tech/blog/nothing-so-permanent/)
 - [In a Fit of Maintenance](https://daniel.scheufler.tech/blog/fit-of-maintenance/)
 - [Leftover Maintenance Becomes Unplanned Work](https://daniel.scheufler.tech/blog/leftover-maintenance/)
-- [Safely Proof Core Changes](https://daniel.scheufler.tech/blog/safely-proof-core-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
