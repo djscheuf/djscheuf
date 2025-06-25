@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ratios of Your Work](https://daniel.scheufler.tech/blog/ratios-of-your-work/)
 - [ROCC It! Leverage  AI in your workflow](https://daniel.scheufler.tech/blog/rocc-it-leverage-ai/)
 - [Account for Conway&#39;s Law in your Architecture](https://daniel.scheufler.tech/blog/conways-law-software-architecture/)
 - [AI Won&#39;t Transform Your Business](https://daniel.scheufler.tech/blog/ai-wont-transform/)
 - [There&#39;s Nothing so Permanent...](https://daniel.scheufler.tech/blog/nothing-so-permanent/)
-- [In a Fit of Maintenance](https://daniel.scheufler.tech/blog/fit-of-maintenance/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
