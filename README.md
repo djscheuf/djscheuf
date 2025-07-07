@@ -3,8 +3,9 @@
 [![Website](https://img.shields.io/website?label=daniel.scheufler.tech&style=for-the-badge&url=https%3A%2F%2Fdaniel.scheufler.tech)][website]
 
 ## 🕊️Christian, 👫Husband, and 👨‍👩‍👧Father, and Improver
-- 👀 I write on Software Engineering Leadership and share my experiences and insights in  'Next Iteration' newsletter, and on my blog at [daniel.scheufler.tech][website]
-- 📕 I'm reading thru [Your Next Five Moves][book] by Patrick Bet-David presently.
+- 👀 I write on Software Engineering Leadership and share my experiences and insights in  ['Next Iteration' newsletter][newsletter], and on my blog at [daniel.scheufler.tech][website]
+- 📕 I'm reading thru [The Great Mental Models Vol 2. - Physics, Chemistry, and Biology][book] by Shane Parrish, and Rhiannon Beaubien presently.
+- 🤖 Lately, I'm tinkering with RAG, and Agentic IDEs, like Windsurf. 
 
 
 ### Connect with me:
@@ -53,7 +54,8 @@ Found the content helpful? Want to help keep the site going?
 [podcast]: https://anchor.fm/journeymans-travels
 [improvingtalks]: https://www.youtube.com/playlist?list=PLqXBkW2Bgxfgw_ye7p9grNCIw3HN_euWL
 [leanpub]:https://leanpub.com/u/danielscheufler
-[book]: https://www.yournextfivemoves.com/
+[book]: https://www.amazon.com/gp/product/0593719980
+[newsletter]:https://subscribepage.io/nOrcj7
 
 <!---
 djscheuf/djscheuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
