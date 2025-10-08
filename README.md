@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You must unlearn](https://daniel.scheufler.tech/blog/you-must-unlearn/)
 - [The True Nature of Organizations](https://daniel.scheufler.tech/blog/true-nature-org/)
 - [First Things First](https://daniel.scheufler.tech/blog/first-things-first/)
 - [New Opportunity in the 2025 Taxes](https://daniel.scheufler.tech/blog/tax-partners/)
 - [Taxes, and Docs, and Agility, Oh my!](https://daniel.scheufler.tech/blog/taxes-docs-ohmy/)
-- [Count On Novel Failure](https://daniel.scheufler.tech/blog/count-on-novel-failure/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
