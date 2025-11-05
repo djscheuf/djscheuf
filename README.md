@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Old Books taught me about readable code](https://daniel.scheufler.tech/blog/old-books-readable-code/)
 - [Your API is UX for AI-Agents](https://daniel.scheufler.tech/blog/ux-for-agents/)
 - [You must unlearn](https://daniel.scheufler.tech/blog/you-must-unlearn/)
 - [The True Nature of Organizations](https://daniel.scheufler.tech/blog/true-nature-org/)
 - [First Things First](https://daniel.scheufler.tech/blog/first-things-first/)
-- [New Opportunity in the 2025 Taxes](https://daniel.scheufler.tech/blog/tax-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
