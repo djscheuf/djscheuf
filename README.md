@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Structure Constrains Culture](https://daniel.scheufler.tech/blog/structure-constrains-culture/)
 - [How an Executive can Limit Blast Radius](https://daniel.scheufler.tech/blog/executive-limit-blast-radius/)
 - [AI in Meetings](https://daniel.scheufler.tech/blog/ai-in-meetings/)
 - [What Old Books taught me about readable code](https://daniel.scheufler.tech/blog/old-books-readable-code/)
 - [Your API is UX for AI-Agents](https://daniel.scheufler.tech/blog/ux-for-agents/)
-- [You must unlearn](https://daniel.scheufler.tech/blog/you-must-unlearn/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
