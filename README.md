@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=daniel.scheufler.tech&style=for-the-badge&url=https%3A%2F%2Fdaniel.scheufler.tech)][website]
 
 ## 🕊️Christian, 👫Husband, and 👨‍👩‍👧Father, and Improver
-- 👀 I write on Software Engineering Leadership and share my experiences and insights in  ['Next Iteration' newsletter][newsletter], and on my blog at [daniel.scheufler.tech][website]
-- 📕 I'm reading thru [The Great Mental Models Vol 2. - Physics, Chemistry, and Biology][book] by Shane Parrish, and Rhiannon Beaubien presently.
-- 🤖 Lately, I'm tinkering with RAG, and Agentic IDEs, like Windsurf. 
+- 👀 I write on Software, Engineering, and  Leadership in the ['Next Iteration' newsletter][newsletter], and on my blog at [daniel.scheufler.tech][website]
+- 📕 I just read through [Consider This][book], by Karen Glass, which discusses the Charlotte Mason Pedagogical approach, and the Classical Education Tradition
+- 🤖 Lately, I'm tinkering iteratively refining my Agentic Development Workflow. My current approach has allowed me to deliver what previously took a team of 5, while maintaining quality and consistency. 
 
 
 ### Connect with me:
@@ -54,7 +54,7 @@ Found the content helpful? Want to help keep the site going?
 [podcast]: https://anchor.fm/journeymans-travels
 [improvingtalks]: https://www.youtube.com/playlist?list=PLqXBkW2Bgxfgw_ye7p9grNCIw3HN_euWL
 [leanpub]:https://leanpub.com/u/danielscheufler
-[book]: https://www.amazon.com/gp/product/0593719980
+[book]: https://www.amazon.com/Consider-This-Charlotte-Classical-Tradition/dp/B083F7TYR3
 [newsletter]:https://subscribepage.io/nOrcj7
 
 <!---
