@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a &#39;Design Buddy&#39; for Better Code](https://daniel.scheufler.tech/blog/design-buddy-for-better-code/)
+- [AI as Adapter](https://daniel.scheufler.tech/blog/ai-as-adapter/)
+- [What Developers Get Paid For](https://daniel.scheufler.tech/blog/what-developers-get-paid-for/)
 - [Capturing Context for AI Agents](https://daniel.scheufler.tech/blog/capturing-context-for-ai-agents/)
 - [Software Engineers Aren&#39;t Translators Anymore](https://daniel.scheufler.tech/blog/not-translators-anymore/)
-- [Structure Constrains Culture](https://daniel.scheufler.tech/blog/structure-constrains-culture/)
-- [How an Executive can Limit Blast Radius](https://daniel.scheufler.tech/blog/executive-limit-blast-radius/)
-- [AI in Meetings](https://daniel.scheufler.tech/blog/ai-in-meetings/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
