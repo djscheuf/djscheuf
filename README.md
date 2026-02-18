@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Take Drucker Memos on Your Architecture](https://daniel.scheufler.tech/blog/drucker-memo-architecture/)
 - [Define Your Metric Responses](https://daniel.scheufler.tech/blog/define-your-metric-responses/)
 - [Green Zones Enable Experimentation](https://daniel.scheufler.tech/blog/green-zones-enable-experimentation/)
 - [Evolutionary Stages of Metrics](https://daniel.scheufler.tech/blog/evolutionary-stages-of-metrics/)
 - [Metrics as Corrective Lenses](https://daniel.scheufler.tech/blog/metrics-as-corrective-lenses/)
-- [Proxy Metrics and Reality Gap](https://daniel.scheufler.tech/blog/proxy-reality-gap/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
