@@ -4,8 +4,8 @@
 
 ## 🕊️Christian, 👫Husband, and 👨‍👩‍👧Father, and Improver
 - 👀 I write on Software, Engineering, and  Leadership in the ['Next Iteration' newsletter][newsletter], and on my blog at [daniel.scheufler.tech][website]
-- 📕 I just read through [Consider This][book], by Karen Glass, which discusses the Charlotte Mason Pedagogical approach, and the Classical Education Tradition
-- 🤖 Lately, I'm tinkering iteratively refining my Agentic Development Workflow. My current approach has allowed me to deliver what previously took a team of 5, while maintaining quality and consistency. 
+- 📕 I just read through [How to Talk so Kids will Listen, and how to Listen so Kids will Talk][book], does what it says on the tin. A good and challenging book on parent-child communicaton!
+- 🤖 Lately, I'm tinkering iteratively refining my Agentic Development Workflow. My current approach has allowed me to deliver what previously took a team of 15, while maintaining quality and consistency. My next step is to incrementally add process quality gates between successfuly augmented workflow tasks.  
 
 
 ### Connect with me:
@@ -42,11 +42,6 @@
 
 ➡️ [more episodes...](https://anchor.fm/journeymans-travels)
 
-
-Found the content helpful? Want to help keep the site going?
-
-<a href="https://www.buymeacoffee.com/djscheuf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Buy Me A Coffee?" style="height: 60px !important;width: 217px !important;" ></a>
-
 [website]: https://daniel.scheufler.tech
 [youtube]: https://www.youtube.com/channel/UCudsO4RmJDekSneHkTkyAAw
 [linkedin]: https://www.linkedin.com/in/danielscheufler/
@@ -54,7 +49,7 @@ Found the content helpful? Want to help keep the site going?
 [podcast]: https://anchor.fm/journeymans-travels
 [improvingtalks]: https://www.youtube.com/playlist?list=PLqXBkW2Bgxfgw_ye7p9grNCIw3HN_euWL
 [leanpub]:https://leanpub.com/u/danielscheufler
-[book]: https://www.amazon.com/Consider-This-Charlotte-Classical-Tradition/dp/B083F7TYR3
+[book]: [https://www.amazon.com/Consider-This-Charlotte-Classical-Tradition/dp/B083F7TYR3](https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889)
 [newsletter]:https://subscribepage.io/nOrcj7
 
 <!---
