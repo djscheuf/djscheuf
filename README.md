@@ -5,7 +5,8 @@
 ## 🕊️Christian, 👫Husband, and 👨‍👩‍👧Father, and Improver
 - 👀 I write on Software, Engineering, and  Leadership in the ['Next Iteration' newsletter][newsletter], and on my blog at [daniel.scheufler.tech][website]
 - 📕 I just read through [How to Talk so Kids will Listen, and how to Listen so Kids will Talk][book], does what it says on the tin. A good and challenging book on parent-child communicaton!
-- 🤖 Lately, I'm tinkering iteratively refining my Agentic Development Workflow. My current approach has allowed me to deliver what previously took a team of 15, while maintaining quality and consistency. My next step is to incrementally add process quality gates between successfuly augmented workflow tasks.  
+- 🤖 Lately, I'm tinkering iteratively refining my Agentic Development Workflow. My current approach has allowed me to deliver what previously took a team of 15, while maintaining quality and consistency. My next step is to incrementally add process quality gates between successfuly augmented workflow tasks.
+  - Check out [this repo][ai-repo] for a look behind the curtain! 
 
 
 ### Connect with me:
@@ -49,8 +50,9 @@
 [podcast]: https://anchor.fm/journeymans-travels
 [improvingtalks]: https://www.youtube.com/playlist?list=PLqXBkW2Bgxfgw_ye7p9grNCIw3HN_euWL
 [leanpub]:https://leanpub.com/u/danielscheufler
-[book]: [https://www.amazon.com/Consider-This-Charlotte-Classical-Tradition/dp/B083F7TYR3](https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889)
+[book]: https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889
 [newsletter]:https://subscribepage.io/nOrcj7
+[ai-repo]: https://github.com/djscheuf/agentic-dev-ecosystem-template
 
 <!---
 djscheuf/djscheuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
