@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Documentation Hygiene Prevents Context Poisoning](https://daniel.scheufler.tech/blog/documentation-hygiene-prevents-context-poisoning/)
+- [The Maintenance First Sprint](https://daniel.scheufler.tech/blog/maintenance-first-sprint/)
 - [Speed is a Leadership Issue](https://daniel.scheufler.tech/blog/speed-leadership-issue/)
 - [AI Excels at Transformation Verbs](https://daniel.scheufler.tech/blog/ai-transformation-verbs/)
 - [Identifying Irreversible Operations](https://daniel.scheufler.tech/blog/identifying-irreversible-operations/)
-- [Sharpening the Agent Axe](https://daniel.scheufler.tech/blog/sharpening-the-agent-axe/)
-- [Take Drucker Memos on Your Architecture](https://daniel.scheufler.tech/blog/drucker-memo-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
