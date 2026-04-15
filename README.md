@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI as Tool Maker&#39;s Tool](https://daniel.scheufler.tech/blog/ai-as-tool-makers-tool/)
+- [AI Skills Through Play](https://daniel.scheufler.tech/blog/ai-skills-through-play/)
 - [Documentation Hygiene Prevents Context Poisoning](https://daniel.scheufler.tech/blog/documentation-hygiene-prevents-context-poisoning/)
 - [The Maintenance First Sprint](https://daniel.scheufler.tech/blog/maintenance-first-sprint/)
 - [Speed is a Leadership Issue](https://daniel.scheufler.tech/blog/speed-leadership-issue/)
-- [AI Excels at Transformation Verbs](https://daniel.scheufler.tech/blog/ai-transformation-verbs/)
-- [Identifying Irreversible Operations](https://daniel.scheufler.tech/blog/identifying-irreversible-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
