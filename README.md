@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bureaucracy as the New Bottleneck](https://daniel.scheufler.tech/blog/bureaucracy-as-the-new-bottleneck/)
+- [1000 Dollars to Bottleneck](https://daniel.scheufler.tech/blog/thousand-dollar-bottleneck/)
 - [AI Research Assistants](https://daniel.scheufler.tech/blog/ai-research-assistants/)
 - [Developer as Team Lead](https://daniel.scheufler.tech/blog/developer-as-team-lead/)
 - [Worktrees for Parallel Development](https://daniel.scheufler.tech/blog/worktrees-for-parallel-development/)
-- [AI as Tool Maker&#39;s Tool](https://daniel.scheufler.tech/blog/ai-as-tool-makers-tool/)
-- [AI Skills Through Play](https://daniel.scheufler.tech/blog/ai-skills-through-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
