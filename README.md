@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Compliance with AI](https://daniel.scheufler.tech/blog/continuous-compliance-with-ai/)
 - [AI Replaces Tasks Not Jobs](https://daniel.scheufler.tech/blog/ai-replaces-tasks-not-jobs/)
 - [How to decompose workflows for AI Augmentation](https://daniel.scheufler.tech/blog/ai-workflow-decomposition-pattern/)
 - [Transformation is a Process](https://daniel.scheufler.tech/blog/transformation-as-process/)
 - [Self-Validating AI Workflows](https://daniel.scheufler.tech/blog/self-validating-ai-workflows/)
-- [Bureaucracy as the New Bottleneck](https://daniel.scheufler.tech/blog/bureaucracy-as-the-new-bottleneck/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
