@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Define Done Before you Build a Task Agent](https://daniel.scheufler.tech/blog/define-done-before-you-build-a-task-agent/)
+- [From AI Automation to AI Augmentation](https://daniel.scheufler.tech/blog/ai-automate-to-augment/)
 - [Fix the Prompt, Not the Output](https://daniel.scheufler.tech/blog/fix-the-prompt/)
 - [The Business Can&#39;t Tell You How to Run It](https://daniel.scheufler.tech/blog/business-cant-tell-you-how/)
 - [Continuous Compliance with AI](https://daniel.scheufler.tech/blog/continuous-compliance-with-ai/)
-- [AI Replaces Tasks Not Jobs](https://daniel.scheufler.tech/blog/ai-replaces-tasks-not-jobs/)
-- [How to decompose workflows for AI Augmentation](https://daniel.scheufler.tech/blog/ai-workflow-decomposition-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
