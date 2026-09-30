@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse-Engineer Before You Rewrite](https://daniel.scheufler.tech/blog/reverse-before-you-rewrite/)
 - [Process Gates as Scar Tissue](https://daniel.scheufler.tech/blog/process-gates-as-scar-tissue/)
+- [Right Way to Onboard an AI Coding Agent](https://daniel.scheufler.tech/blog/right-way-to-onboard-an-ai-coding-agent/)
 - [Define Done Before you Build a Task Agent](https://daniel.scheufler.tech/blog/define-done-before-you-build-a-task-agent/)
 - [From AI Automation to AI Augmentation](https://daniel.scheufler.tech/blog/ai-automate-to-augment/)
-- [Fix the Prompt, Not the Output](https://daniel.scheufler.tech/blog/fix-the-prompt/)
-- [The Business Can&#39;t Tell You How to Run It](https://daniel.scheufler.tech/blog/business-cant-tell-you-how/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
