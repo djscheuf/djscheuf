@@ -23,11 +23,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Role Collapse Cycle in Tech](https://daniel.scheufler.tech/blog/role-collapse-cycle/)
 - [People Are Part of the Support Infrastructure](https://daniel.scheufler.tech/blog/people-are-infrastructure/)
 - [Reverse-Engineer Before You Rewrite](https://daniel.scheufler.tech/blog/reverse-before-you-rewrite/)
 - [Process Gates as Scar Tissue](https://daniel.scheufler.tech/blog/process-gates-as-scar-tissue/)
 - [Right Way to Onboard an AI Coding Agent](https://daniel.scheufler.tech/blog/right-way-to-onboard-an-ai-coding-agent/)
-- [Define Done Before you Build a Task Agent](https://daniel.scheufler.tech/blog/define-done-before-you-build-a-task-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://daniel.scheufler.tech)
